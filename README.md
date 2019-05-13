@@ -5,7 +5,7 @@
 
 *npm install*
 
-#Projeyi ayağa kaldırmak icin#
+## Projeyi ayağa kaldırmak icin
 
 *npm start*
 
