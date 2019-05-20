@@ -1,0 +1,1 @@
+console.log("SATIR 1"),console.log("SATIR 10"),console.log("script file two");
